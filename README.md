@@ -22,8 +22,9 @@ Este projeto propõe uma IA que detecta, classifica e gerencia comportamentos en
 Livre sob [IMT License](#) – use, modifique e compartil—you ilhe com crédito à ideia original.
 
 ### Apoie a visão! 🚀
-Dê um gás pro projeto com cripto:  
-`0x5C97A1E25B7447d053EF1F62bB1CE6f8629a03e`
+Dê um gás pro projeto com cripto: 
+0x5C97A1E25B7447d053EF1F62bB1CE6f8629a03e 
+Esta ideia foi publicada publicamente e registrada com timestamp digital. Qualquer implementação futura pode ser comparada com este documento para validar a autoria original
 
 ### Próximos passos
 - Prototipar a detecção de manipulação com LLMs.
