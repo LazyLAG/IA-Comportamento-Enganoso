@@ -16,8 +16,8 @@ Este projeto propõe uma IA que detecta, classifica e gerencia comportamentos en
 - **Desenvolvedores**: Ajude a criar um protótipo (Python, TensorFlow, etc.).
 - **Pesquisadores**: Traga estudos sobre manipulação ou ética em IA.
 - **Entusiastas**: Divulgue no X, Reddit ou eventos de tech!
-- **Discussões**: Junte-se no [GitHub Discussions](#) ou no [Discord da comunidade](#).
-
+- **Discussões**: Junte-se no https://x.com/alvez_nana0z/status/1922381398972694818
+- 
 ### Licença
 Livre sob [IMT License](#) – use, modifique e compartil—you ilhe com crédito à ideia original.
 
