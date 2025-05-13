@@ -32,3 +32,8 @@ Esta ideia foi publicada publicamente e registrada com timestamp digital. Qualqu
 - Parcerias com ONGs de ética digital.
 
 Junte-se à nossa comuna tech pra tornar a IA mais segura e confiável! 😎
+
+### Autenticidade
+Criadores: Nana_Z01 (@alvez_nana0z) https://x.com/alvez_nana0z e Sérgio Yuri Vidal Benrós (LazyLAG) syvb01@gmail.com
+Registado na blockchain em 13/05/2025
+SHA: 2563ae1a54ebac60765e0041f702f0f68f25b9c1cf1d45714625bedffe3420b043d 
