@@ -16,7 +16,7 @@ Este projeto propõe uma IA que detecta, classifica e gerencia comportamentos en
 - **Desenvolvedores**: Ajude a criar um protótipo (Python, TensorFlow, etc.).
 - **Pesquisadores**: Traga estudos sobre manipulação ou ética em IA.
 - **Entusiastas**: Divulgue no X, Reddit ou eventos de tech!
-- **Discussões**: Junte-se no [https://x.com/alvez_nana0z/status/1922381398972694818](https://x.com/DominaCivitas)
+- **Discussões**: Junte-se DominaCivitas https://x.com/DominaCivitas
 - 
 ### Licença
 Livre sob [IMT License](#) – use, modifique e compartil—you ilhe com crédito à ideia original.
@@ -34,6 +34,6 @@ Esta ideia foi publicada publicamente e registrada com timestamp digital. Qualqu
 Junte-se à nossa comuna tech pra tornar a IA mais segura e confiável! 😎
 
 ### Autenticidade
-Criadores: DominaCivitas https://x.com/alvez_nana0z](https://x.com/DominaCivitas
+Criadores: DominaCivitas https://x.com/DominaCivitas
 Registado na blockchain em 13/05/2025
 SHA: 2563ae1a54ebac60765e0041f702f0f68f25b9c1cf1d45714625bedffe3420b043d 
